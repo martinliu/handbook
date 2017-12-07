@@ -16,15 +16,15 @@ featured-image-source:
 
 # Social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+facebook_url: https://www.facebook.com/groups/devops.handbook/
+github_url: https://github.com/martinliu/handbook.git
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
