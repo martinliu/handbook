@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Home
-description: Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.
+title: 首页
+description: 本站是由《DevOps实践指南》的译者们创建的用于和读者交流和互动的网站
 ---
