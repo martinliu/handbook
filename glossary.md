@@ -6,7 +6,7 @@ image: glossary.jpg
 ---
 
 
-本术语表主要来源于DevOps相关书籍。
+参与修订本术语表的方法，在页脚。
 
 | 英文 | 中文 |
 | --- | --- |
@@ -139,9 +139,9 @@ image: glossary.jpg
 |  | 
 
 
-请帮忙改进本术语表，[点这里](https://github.com/martinliu/handbook/)。
+请帮忙改进本术语表，[点此进入本网站的GitHub页面](https://github.com/martinliu/handbook/blob/master/glossary.md)。或者发邮件到：martin@devopscoach.org
 
-注意事项：
+GitHub操作注意事项：
 
 * 建议clone整个repo做批量更新，小批量可以直接在github网页上提交
 * 请不要完全删除之前的翻译，可以把旧翻译划横线（使用markdown），在右边添加新的中文意思。
